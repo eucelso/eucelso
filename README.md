@@ -1,6 +1,6 @@
 ### Hi, I'm <del>Luiz</del> Celso, be welcome <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-I work as a Techlead and Software Engineer at Capgemini Engineering, I love to share knowledge by talking or writing about technology. I am currently living in Porto, Portugal.
+I work as a Techlead and Software Engineer at Yape, I love to share knowledge by talking or writing about technology. I am currently living in Porto, Portugal.
 
 I have more than 10 years of experience, always breathing web development, creating modern, friendly and accessible applications. In these years I had the opportunity to work with several amazing projects, Rock in Rio 2011, O Rappa (Brazilian rock band <3), Marisa Monte, Itaú, Rede, Santander, O Boticário, among others.  Working in companies like [Dafiti](https://github.com/DafitiSprint/), [Concrete Solutions](https://github.com/concretesolutions), [Mercado Libre](https://github.com/mercadolibre) and currently at [Quinto Andar](https://github.com/quintoandar).
 
