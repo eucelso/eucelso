@@ -2,7 +2,7 @@
 
 I work as a Techlead and Software Engineer at Yape, I love to share knowledge by talking or writing about technology. I am currently living in Porto, Portugal.
 
-I have more than 10 years of experience, always breathing web development, creating modern, friendly and accessible applications. In these years I had the opportunity to work with several amazing projects, Rock in Rio 2011, O Rappa (Brazilian rock band <3), Marisa Monte, Itaú, Rede, Santander, O Boticário, among others.  Working in companies like [Dafiti](https://github.com/DafitiSprint/), [Concrete Solutions](https://github.com/concretesolutions), [Mercado Libre](https://github.com/mercadolibre), [Quinto Andar](https://github.com/quintoandar) and currently at [Yape](https://github.com/yaperos).
+I have more than 15 years of experience, always breathing web development, creating modern, friendly and accessible applications. In these years I had the opportunity to work with several amazing projects, Rock in Rio 2011, O Rappa (Brazilian rock band <3), Marisa Monte, Itaú, Rede, Santander, O Boticário, among others.  Working in companies like [Dafiti](https://github.com/DafitiSprint/), [Concrete Solutions](https://github.com/concretesolutions), [Mercado Libre](https://github.com/mercadolibre), [Quinto Andar](https://github.com/quintoandar) and currently at [Yape](https://github.com/yaperos).
 
 Experience in managing multidisciplinary teams in companies (Concrete, Mercado Livre, Quinto Andar and Capgemini).
 
